@@ -8,6 +8,7 @@ SQL-Practice
 | [0175-combine-two-tables](https://github.com/Adiitya09/SQL-Practice/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Adiitya09/SQL-Practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Adiitya09/SQL-Practice/tree/main/0178-rank-scores/) | Medium |
+| [0182-duplicate-emails](https://github.com/Adiitya09/SQL-Practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Adiitya09/SQL-Practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Adiitya09/SQL-Practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/Adiitya09/SQL-Practice/tree/main/0577-employee-bonus/) | Easy |
