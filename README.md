@@ -13,5 +13,6 @@ SQL-Practice
 | [0184-department-highest-salary](https://github.com/Adiitya09/SQL-Practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/Adiitya09/SQL-Practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Adiitya09/SQL-Practice/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Adiitya09/SQL-Practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Adiitya09/SQL-Practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
