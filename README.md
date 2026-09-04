@@ -16,6 +16,7 @@ SQL-Practice
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Adiitya09/SQL-Practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Adiitya09/SQL-Practice/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Adiitya09/SQL-Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/Adiitya09/SQL-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1693-daily-leads-and-partners](https://github.com/Adiitya09/SQL-Practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
