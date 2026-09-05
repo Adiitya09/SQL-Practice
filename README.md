@@ -19,4 +19,12 @@ SQL-Practice
 | [0619-biggest-single-number](https://github.com/Adiitya09/SQL-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1693-daily-leads-and-partners](https://github.com/Adiitya09/SQL-Practice/tree/main/1693-daily-leads-and-partners/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/SQL-Practice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/SQL-Practice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 <!---LeetCode Topics End-->
