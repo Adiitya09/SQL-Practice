@@ -22,6 +22,7 @@ SQL-Practice
 | [0620-not-boring-movies](https://github.com/Adiitya09/SQL-Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Adiitya09/SQL-Practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1683-invalid-tweets](https://github.com/Adiitya09/SQL-Practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Adiitya09/SQL-Practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
