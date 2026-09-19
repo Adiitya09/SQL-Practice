@@ -28,6 +28,7 @@ SQL-Practice
 | [1527-patients-with-a-condition](https://github.com/Adiitya09/SQL-Practice/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/Adiitya09/SQL-Practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Adiitya09/SQL-Practice/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1729-find-followers-count](https://github.com/Adiitya09/SQL-Practice/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Adiitya09/SQL-Practice/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
