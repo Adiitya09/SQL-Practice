@@ -31,4 +31,12 @@ SQL-Practice
 | [1729-find-followers-count](https://github.com/Adiitya09/SQL-Practice/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Adiitya09/SQL-Practice/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/SQL-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/SQL-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
