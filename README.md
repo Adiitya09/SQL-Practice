@@ -39,4 +39,12 @@ SQL-Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/SQL-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Adiitya09/SQL-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Adiitya09/SQL-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
