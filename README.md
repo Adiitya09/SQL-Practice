@@ -23,6 +23,7 @@ SQL-Practice
 | [0619-biggest-single-number](https://github.com/Adiitya09/SQL-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Adiitya09/SQL-Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1075-project-employees-i](https://github.com/Adiitya09/SQL-Practice/tree/main/1075-project-employees-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Adiitya09/SQL-Practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Adiitya09/SQL-Practice/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Adiitya09/SQL-Practice/tree/main/1527-patients-with-a-condition/) | Easy |
