@@ -22,6 +22,7 @@ SQL-Practice
 | [0607-sales-person](https://github.com/Adiitya09/SQL-Practice/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/Adiitya09/SQL-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Adiitya09/SQL-Practice/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Adiitya09/SQL-Practice/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1075-project-employees-i](https://github.com/Adiitya09/SQL-Practice/tree/main/1075-project-employees-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Adiitya09/SQL-Practice/tree/main/1193-monthly-transactions-i/) | Medium |
