@@ -38,20 +38,4 @@ SQL-Practice
 | [1757-recyclable-and-low-fat-products](https://github.com/Adiitya09/SQL-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1907-count-salary-categories](https://github.com/Adiitya09/SQL-Practice/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Adiitya09/SQL-Practice/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/SQL-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/SQL-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2574-left-and-right-sum-differences](https://github.com/Adiitya09/SQL-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2574-left-and-right-sum-differences](https://github.com/Adiitya09/SQL-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
-<!---LeetCode Topics End-->
+
